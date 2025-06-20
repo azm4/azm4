@@ -1,7 +1,6 @@
 # About
 
 *I am a CSE Major in **Bangladesh*** currently studying at **United International University** in *United City, Dhaka, Bangladesh*. 
-
 System-Level Programming, Linux, and Cybersecurity are my areas of interest.  
 Deep reflection and grass touching on **fridays**. 
   
