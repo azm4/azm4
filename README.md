@@ -6,7 +6,7 @@
   
 # Notable Skills & Certification
 
-None, yet. But I wish to build some soon.
+None, **yet**. But I wish to build some soon.
 
 # External Links
 
