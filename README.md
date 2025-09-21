@@ -21,6 +21,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
+## Certifications
+Will be added soon.
+
 # External Links
 
 Will be added soon. 
