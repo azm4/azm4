@@ -1,52 +1,33 @@
-# About
+<div align="center">
 
-*I am a CSE Major in **Bangladesh*** currently studying at **United International University** in *United City, Dhaka, Bangladesh*. 
+<h1>Md. Abdul Al Azim Zihad</h1>
+<b>UIUCSE | AI & Data | Security</b><br/>
+United International University — United City, Dhaka, Bangladesh
+
+---
+
+### About
+I am a CSE Major in **Bangladesh** currently studying at **United International University** in *United City, Dhaka, Bangladesh*.  
+<div align="left">
+
 - System-Level Programming, Linux, and Cybersecurity are my areas of interest.  
-- Deep reflection and grass touching on **fridays**. 
-  
-# Notable Skills & Certification
+- Deep reflection and grass touching on **Fridays**.
 
-## Programming Languages and Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-</p>
+</div>
 
-## Certifications
-Will be added soon.
+---
 
-# External Links
+### Tools
 
-Will be added soon. 
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kalilinux.svg" alt="Kali Linux" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/wireshark.svg" alt="Wireshark" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/obsidian.svg" alt="Obsidian" width="40" height="40"/> |
+|---|---|---|---|---|---|---|
 
-# Looking Forward
+---
 
-I am excited of what will come next. Feel free to reach out or explore my projects. If you have any projects that I fit into, please connect, I would love to collaborate. 
+Reach out. Let's build **together**
 
-# On My Desk
+### On My Desk
 
 <img src="https://nostarch.com/sites/default/files/styles/uc_product_full/public/2022-11/PythonCrashCourse3E_cover-front.png" alt="Python Crash Course by Eric Matthes" width="220"/>
 
-<!--
-**azm4/azm4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
