@@ -26,8 +26,10 @@ I am a CSE Major in **Bangladesh** currently studying at **United International 
 
 Reach out. Let's build **together**
 
-### On My Desk
+---
 
-<img src="https://nostarch.com/sites/default/files/styles/uc_product_full/public/2022-11/PythonCrashCourse3E_cover-front.png" alt="Python Crash Course by Eric Matthes" width="220"/>
+| On My Desk | <img src="https://nostarch.com/sites/default/files/styles/uc_product_full/public/2022-11/PythonCrashCourse3E_cover-front.png" alt="Python Crash Course by Eric Matthes" width="220"/> |
+|---|---|
+| Favourites | <ul><li>The Linux Command Line</li><li>Elif Shafak 40 rules of love</li><li>subtle art of not giving a fuck</li></ul> |
 
 </div>
