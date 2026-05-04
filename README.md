@@ -32,6 +32,10 @@ Will be added soon.
 
 I am excited of what will come next. Feel free to reach out or explore my projects. If you have any projects that I fit into, please connect, I would love to collaborate. 
 
+# On My Desk
+
+<img src="https://nostarch.com/sites/default/files/styles/uc_product_full/public/2022-11/PythonCrashCourse3E_cover-front.png" alt="Python Crash Course by Eric Matthes" width="220"/>
+
 <!--
 **azm4/azm4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
